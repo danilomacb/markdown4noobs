@@ -22,9 +22,9 @@
 </p>
 
 ## Guia
-- [História](4noobsDocs/1-Historia.md)
-- [Ambiente](4noobsDocs/2-Ambiente.md)
-- [Cheatsheet](4noobsDocs/3-Cheatsheet.md)
+- [História](./4noobsDocs/1-Historia.md)
+- [Ambiente](./4noobsDocs/2-Ambiente.md)
+- [Cheatsheet](./4noobsDocs/3-Cheatsheet.md)
 
 
 ## Como Contribuir
