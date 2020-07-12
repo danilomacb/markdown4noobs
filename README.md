@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./.github/header-4noobs.svg">
+    <img src="./4noobsAssets/header-4noobs.svg">
   </a>
 </p>
 
@@ -22,9 +22,9 @@
 </p>
 
 ## Guia
-- [História](src/Guia/1-Historia.md)
-- [Ambiente](src/Guia/2-Ambiente.md)
-- [Cheatsheet](src/Guia/Cheatsheet.md)
+- [História](4noobsDocs/1-Historia.md)
+- [Ambiente](4noobsDocs/2-Ambiente.md)
+- [Cheatsheet](4noobsDocs/3-Cheatsheet.md)
 
 
 ## Como Contribuir
@@ -51,6 +51,6 @@ são **extremamente apreciadas**
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="./.github/footer-4noobs.svg" width="380">
+    <img src="./4noobsAssets/footer-4noobs.svg" width="380">
   </a>
 </p>
